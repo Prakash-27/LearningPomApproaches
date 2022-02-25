@@ -1,0 +1,6 @@
+com\automationpractice\qa\base\TestBase.class
+com\automationpractice\qa\pages\MyAccountPage.class
+com\automationpractice\qa\util\WebEventListener.class
+com\automationpractice\qa\pages\HomePage.class
+com\automationpractice\qa\pages\AuthenticationSignInPage.class
+com\automationpractice\qa\util\TestUtil.class

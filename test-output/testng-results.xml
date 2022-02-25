@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-11T13:07:48 GMT-05:00" name="AutomationPractice E-Commerce Application Test Suite" finished-at="2022-02-11T13:10:16 GMT-05:00" duration-ms="148513">
+    <groups>
+    </groups>
+    <test started-at="2022-02-11T13:07:48 GMT-05:00" name="AutomationPractice Application Test Cases" finished-at="2022-02-11T13:10:16 GMT-05:00" duration-ms="148513">
+      <class name="com.automationpractice.qa.testcases.MyAccountPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automationpractice.qa.testcases.MyAccountPageTest@130c12b7]" started-at="2022-02-11T13:09:32 GMT-05:00" name="setUp" finished-at="2022-02-11T13:10:02 GMT-05:00" duration-ms="29980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="GoToHomepage()[pri:0, instance:com.automationpractice.qa.testcases.MyAccountPageTest@130c12b7]" started-at="2022-02-11T13:10:02 GMT-05:00" name="GoToHomepage" finished-at="2022-02-11T13:10:16 GMT-05:00" duration-ms="14110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GoToHomepage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationpractice.qa.testcases.MyAccountPageTest@130c12b7]" started-at="2022-02-11T13:10:16 GMT-05:00" name="tearDown" finished-at="2022-02-11T13:10:16 GMT-05:00" duration-ms="522" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.qa.testcases.MyAccountPageTest -->
+      <class name="com.automationpractice.qa.testcases.HomePageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:07:48 GMT-05:00" name="setUp" finished-at="2022-02-11T13:08:09 GMT-05:00" duration-ms="21175" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="HomePageTitleTest()[pri:1, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:08:09 GMT-05:00" name="HomePageTitleTest" finished-at="2022-02-11T13:08:09 GMT-05:00" duration-ms="33" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:08:09 GMT-05:00" name="tearDown" finished-at="2022-02-11T13:08:09 GMT-05:00" duration-ms="430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:08:09 GMT-05:00" name="setUp" finished-at="2022-02-11T13:08:24 GMT-05:00" duration-ms="14693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="automationpracticeLogoImageTest()[pri:2, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:08:24 GMT-05:00" name="automationpracticeLogoImageTest" finished-at="2022-02-11T13:08:24 GMT-05:00" duration-ms="98" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- automationpracticeLogoImageTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:08:24 GMT-05:00" name="tearDown" finished-at="2022-02-11T13:08:25 GMT-05:00" duration-ms="390" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:08:25 GMT-05:00" name="setUp" finished-at="2022-02-11T13:08:41 GMT-05:00" duration-ms="16603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="SignInbtnClickTest()[pri:3, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:08:41 GMT-05:00" name="SignInbtnClickTest" finished-at="2022-02-11T13:08:50 GMT-05:00" duration-ms="8624" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignInbtnClickTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationpractice.qa.testcases.HomePageTest@ffaa6af]" started-at="2022-02-11T13:08:50 GMT-05:00" name="tearDown" finished-at="2022-02-11T13:08:50 GMT-05:00" duration-ms="428" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.qa.testcases.HomePageTest -->
+      <class name="com.automationpractice.qa.testcases.AuthenticationSignInPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.automationpractice.qa.testcases.AuthenticationSignInPageTest@121314f7]" started-at="2022-02-11T13:08:50 GMT-05:00" name="setUp" finished-at="2022-02-11T13:09:20 GMT-05:00" duration-ms="29204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="VerifyAuthenticationSignIn()[pri:0, instance:com.automationpractice.qa.testcases.AuthenticationSignInPageTest@121314f7]" started-at="2022-02-11T13:09:20 GMT-05:00" name="VerifyAuthenticationSignIn" finished-at="2022-02-11T13:09:31 GMT-05:00" duration-ms="11682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyAuthenticationSignIn -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.automationpractice.qa.testcases.AuthenticationSignInPageTest@121314f7]" started-at="2022-02-11T13:09:31 GMT-05:00" name="tearDown" finished-at="2022-02-11T13:09:32 GMT-05:00" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.automationpractice.qa.testcases.AuthenticationSignInPageTest -->
+    </test> <!-- AutomationPractice Application Test Cases -->
+  </suite> <!-- AutomationPractice E-Commerce Application Test Suite -->
+</testng-results>
